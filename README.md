@@ -5,7 +5,7 @@ I have done the following to meet the submission criteria:
 
 - [x] Created a repo with a README.md and contains my full name
 - [x] Downloaded zip file from my CodePen webpage (https://codepen.io/ImanC7/pen/KwgjbPX)
-- [x] Unzipped files and uploaded *only* the /dist sub-folder into this repo
+- [x] Uploaded *only* the files from /dist sub-folder into this repo
 - [x] Added this description to this README.md
 - [x] Deployed the webpage using GitHub pages
 - [x] Submitted this link on the CYF Course Platform!   
